@@ -21,7 +21,7 @@ A collection of system-level projects built in C/C++ to simulate core OS functio
 - Wrote a basic kernel module with `printk`
 - Implemented insert/delete for a sorted linked list
 
-### 🔹 Project 2 – Custom Linux Shell
+### 🔹 Project 2 – Custom Linux Shell (⚠️ ~70% Complete)
 - Built a shell using `fork`, `execvp`, `dup2`, `pipe`
 - Parsed commands, flags, and handled `|`, `<`, `>`, `&`
 - Bonus: Added `cd`, `ls` functionality
